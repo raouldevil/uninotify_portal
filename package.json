@@ -17,9 +17,11 @@
   },
   "homepage": "https://github.com/raouldevil/uninotify_portal#readme",
   "dependencies": {
+    "chai": "^3.5.0",
     "handlebars": "^4.0.5",
     "hapi": "^13.0.0",
     "mocha": "^2.4.5",
+    "request": "^2.69.0",
     "vision": "^4.0.1"
   }
 }

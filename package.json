@@ -1,0 +1,25 @@
+{
+  "name": "uninotify_portal",
+  "version": "1.0.0",
+  "description": "A unified notifications engine.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raouldevil/uninotify_portal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raouldevil/uninotify_portal/issues"
+  },
+  "homepage": "https://github.com/raouldevil/uninotify_portal#readme",
+  "dependencies": {
+    "handlebars": "^4.0.5",
+    "hapi": "^13.0.0",
+    "mocha": "^2.4.5",
+    "vision": "^4.0.1"
+  }
+}

@@ -1,0 +1,1 @@
+This site aims to me a fast and light notifications portal for SMS, email and other notification sending.
